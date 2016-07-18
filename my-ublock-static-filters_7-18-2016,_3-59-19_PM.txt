@@ -1,0 +1,32 @@
+! 6/9/2016, 11:09:17 PM https://www.giftcardgranny.com/blog/student-discounts/#franchises
+www.giftcardgranny.com###gcg-right-side > .section:nth-of-type(1) > ol:nth-of-type(1) > li:nth-of-type(1) > .fdTile-wrapper > .center.left.card.fdTile
+
+! 6/9/2016, 11:09:37 PM https://www.giftcardgranny.com/blog/student-discounts/#franchises
+www.giftcardgranny.com###gcg-right-side > .section:nth-of-type(1) > ol:nth-of-type(1) > li:nth-of-type(4) > .fdTile-wrapper > .center.left.card.fdTile
+
+! 6/9/2016, 11:09:47 PM https://www.giftcardgranny.com/blog/student-discounts/#franchises
+www.giftcardgranny.com###gcg-right-side > .section:nth-of-type(1) > ol:nth-of-type(2) > li:nth-of-type(1) > .fdTile-wrapper > .center.left.card.fdTile
+
+! 6/9/2016, 11:10:07 PM https://www.giftcardgranny.com/blog/student-discounts/#franchises
+www.giftcardgranny.com###gcg-right-side > .section:nth-of-type(1) > ol:nth-of-type(3) > li:nth-of-type(2) > .fdTile-wrapper
+
+! 6/9/2016, 11:10:29 PM https://www.giftcardgranny.com/blog/student-discounts/#franchises
+www.giftcardgranny.com###gcg-right-side > .section:nth-of-type(1) > ol:nth-of-type(4) > li:nth-of-type(1) > .fdTile-wrapper
+
+! 6/9/2016, 11:10:47 PM https://www.giftcardgranny.com/blog/student-discounts/#franchises
+www.giftcardgranny.com###gcg-right-side > .section:nth-of-type(1) > ol:nth-of-type(8) > li:nth-of-type(4) > .fdTile-wrapper
+
+! 6/9/2016, 11:11:03 PM https://www.giftcardgranny.com/blog/student-discounts/#franchises
+www.giftcardgranny.com###gcg-right-side > .section:nth-of-type(1) > ol:nth-of-type(8) > li:nth-of-type(19) > .fdTile-wrapper
+
+! 6/9/2016, 11:11:19 PM https://www.giftcardgranny.com/blog/student-discounts/#franchises
+www.giftcardgranny.com###gcg-right-side > .section:nth-of-type(1) > ol:nth-of-type(9) > li:nth-of-type(4) > .fdTile-wrapper
+
+! 6/9/2016, 11:11:27 PM https://www.giftcardgranny.com/blog/student-discounts/#franchises
+www.giftcardgranny.com###gcg-right-side > .section:nth-of-type(1) > ol:nth-of-type(9) > li:nth-of-type(9) > .fdTile-wrapper
+
+! 6/20/2016, 3:04:10 PM http://www.math-aids.com/Graph_Paper/
+||www.math-aids.com/Ad_Scripts/Creatives/IXL-180x160-bannerH-solid.gif$image
+
+! 6/20/2016, 3:04:47 PM http://www.math-aids.com/Graph_Paper/
+||www.math-aids.com/Ad_Scripts/Creatives/IXL-120x800-banner-H-solid.gif$image
